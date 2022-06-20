@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RabbleRousy
+- 👋 Hi, I’m @RabbleRousy/Simon
 - 👀 I’m interested in Computergraphic, Games and 3D. Also Apple Simp 🍏 
 - 🌱 I’m currently in my first internship in a small studio in 🇩🇪
 - 💞️ I’d love to collaborate on anything Tech Art or Apple related.
